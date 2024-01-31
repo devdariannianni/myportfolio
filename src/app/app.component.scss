@@ -1,0 +1,18 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+ul{
+    display: flex;
+}
+li{
+    padding: 20px;
+    border-radius: 20px;
+}
+
+li:hover{
+    background-color: rgb(83, 80, 80);
+    cursor: pointer;
+}
